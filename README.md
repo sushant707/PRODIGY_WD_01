@@ -1,3 +1,3 @@
-#Responsive restaurant landing page
+# Responsive restaurant landing page
 
 
